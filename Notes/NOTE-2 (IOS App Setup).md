@@ -26,3 +26,5 @@ ___
 
 
 NOTE: Apple also asks to register the device you want to test your application.
+
+See the tutorial if you face issue setting up this!

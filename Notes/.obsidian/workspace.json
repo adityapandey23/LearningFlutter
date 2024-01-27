@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "69899eeec65b993c",
+        "id": "6d68c67071504dd8",
         "type": "tabs",
         "children": [
           {
-            "id": "9c492442575dcc63",
+            "id": "02e76a6c0bd9398d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOTE-2 (IOS App Setup).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ca30c810a0078e5b",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTE-2 (IOS App Setup).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTE-2 (IOS App Setup).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NOTE-2 (IOS App Setup).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c492442575dcc63",
+  "active": "02e76a6c0bd9398d",
   "lastOpenFiles": [
-    "NOTE-1 (Project Setup).md",
+    "NOTE-3 (Android App Setup).md",
     "NOTE-2 (IOS App Setup).md",
-    "NOTE-4 (Firebase Backend Setup).md",
-    "NOTE-3 (Android App Setup).md"
+    "NOTE-1 (Project Setup).md",
+    "NOTE-4 (Firebase Backend Setup).md"
   ]
 }
