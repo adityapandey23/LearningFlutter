@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6d68c67071504dd8",
+        "id": "76047119d5a6846f",
         "type": "tabs",
         "children": [
           {
-            "id": "02e76a6c0bd9398d",
+            "id": "12855f386b46c7b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NOTE-4 (Firebase Backend Setup).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ca30c810a0078e5b",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NOTE-4 (Firebase Backend Setup).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NOTE-4 (Firebase Backend Setup).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NOTE-4 (Firebase Backend Setup).md"
+              }
             }
           }
         ]
@@ -138,11 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02e76a6c0bd9398d",
+  "active": "12855f386b46c7b2",
   "lastOpenFiles": [
+    "FlutterFire CLI and Firebase CLI Installation.md",
+    "NOTE-4 (Firebase Backend Setup).md",
     "NOTE-3 (Android App Setup).md",
     "NOTE-2 (IOS App Setup).md",
-    "NOTE-1 (Project Setup).md",
-    "NOTE-4 (Firebase Backend Setup).md"
+    "NOTE-1 (Project Setup).md"
   ]
 }

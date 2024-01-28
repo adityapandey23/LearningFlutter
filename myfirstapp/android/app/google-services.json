@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266993612037",
+    "project_id": "ashrbvfliar12308745",
+    "storage_bucket": "ashrbvfliar12308745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266993612037:android:34aa38d9fd7be594a0336c",
+        "android_client_info": {
+          "package_name": "com.learning.myfirstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKD4us6LR32mAmnp-gUJJLn9vYJAjx0zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
