@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76047119d5a6846f",
+        "id": "ed15c0eac6e1952c",
         "type": "tabs",
         "children": [
           {
-            "id": "12855f386b46c7b2",
+            "id": "87f21433ad0d3c38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTE-4 (Firebase Backend Setup).md",
+                "file": "NOTE-5 (Basic Registration Screen).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTE-4 (Firebase Backend Setup).md",
+                "file": "NOTE-5 (Basic Registration Screen).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTE-4 (Firebase Backend Setup).md",
+                "file": "NOTE-5 (Basic Registration Screen).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTE-4 (Firebase Backend Setup).md"
+                "file": "NOTE-5 (Basic Registration Screen).md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12855f386b46c7b2",
+  "active": "87f21433ad0d3c38",
   "lastOpenFiles": [
-    "FlutterFire CLI and Firebase CLI Installation.md",
     "NOTE-4 (Firebase Backend Setup).md",
+    "NOTE-5 (Basic Registration Screen).md",
+    "FlutterFire CLI and Firebase CLI Installation.md",
     "NOTE-3 (Android App Setup).md",
     "NOTE-2 (IOS App Setup).md",
     "NOTE-1 (Project Setup).md"
