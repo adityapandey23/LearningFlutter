@@ -21,4 +21,29 @@ ___
 * **Stateful** : It can change it's state during the lifetime 
 		For Example: Counter of something, login form etc.
 * **Stateless** : It cannot change it's state during the lifetime
-		For Example: Text widget, image widget, icon button etc.
+		For Example: Text widget, image widget, icon button etc. (Though with some alterations stateless widget can also be redrawn)
+
+
+## Instructions
+___
+1. Let's delete all the stuff and just have the main function
+2. **stl** is the shortcut to create a stateless or a stateful widget
+3. And now let's create a stateless widget
+4. We can have either a `const Placeholder()` or `Container` Placeholder is basically used to reserve space for elements which will be added later. Meanwhile, Container is a parent widget which can have multiple design things like padding, margin, decoration etc
+5. But, to actually make our application usable we have to return something named `Scaffold`
+
+
+## Scaffold
+___
+* It provides a framework for implementing the basic material design visual layout structure
+* It has many children widgets which are used to speed up the app development process
+* We can go to each child as well as the parent code to see which type of widget it is
+
+
+-> Basically when we'll be creating widgets all the time!
+
+
+We made the following changes to the code:
+1. Returned Scaffold() instead of Placeholder or Container
+2. Added AppBar which contains title
+3. Added Body which contain two things, onPressed and child
