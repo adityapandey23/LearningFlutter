@@ -44,6 +44,7 @@ ___
 
 
 We made the following changes to the code:
-1. Returned Scaffold() instead of Placeholder or Container
-2. Added AppBar which contains title
-3. Added Body which contain two things, onPressed and child
+1. Returned **Scaffold**() instead of **Placeholder()** or **Container()**
+2. Added **AppBar** which contains title
+3. Added Body which contain **TextButton** (It is a type of button widget that displays a text label and responds to user taps) which eventually contains a property called **child** which helps in displaying another widget like icon,list of things(DON'T). Another property that it have is **onPressed()** which basically have a function which defines what the button will do when it is pressed
+4. Centered the button using Ctrl+. and Center property

@@ -21,12 +21,15 @@ class MyHomePage extends StatelessWidget {
         title: const Text("Register")
       ),
 
-      body: TextButton(onPressed: () {
-        // Empty
-      },
-      child: const Text("Halo Moto"),
+      body: Center(
+        child: TextButton(onPressed: () {
+          // Empty
+        },
+        child: const Text("Register"),
+        ),
       ),
-  
+
+
     );
   }
 }
