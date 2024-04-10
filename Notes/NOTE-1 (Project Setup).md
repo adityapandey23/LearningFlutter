@@ -4,7 +4,7 @@ ___
 
 	For Example we have the domain name as www.mrNobody.in then the command to create a new application would be 
 	```terminal
-	flutter create in.mrNobody --org *Application_name*
+	flutter create *Application_name* --org in.mrNobody
 	```
 * When we create an flutter project using the above commands basically the flutter files spits out some files which will be necessary for us to run our application on different platforms like ios, android etc
 
